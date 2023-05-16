@@ -1,5 +1,10 @@
-# emacs
-My main emacs file
+# Emacs setup
+Shell script to setup emacs on Oracle linux with:
+- Golang tools and lsp integration
+- Tools for more fancy navigation and file handling
+- vterm as terminal emulator with multi-vterm for multiple terminals in emacs
+- Solarized theme adapted to the terminal
+- etc
 
 # WSL Installation
 ## Enable WSL prerequisites
